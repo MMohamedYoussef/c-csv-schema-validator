@@ -1,0 +1,2 @@
+line=3 status=invalid column=price reason=invalid or missing value
+rows=3 valid=2 invalid=1
